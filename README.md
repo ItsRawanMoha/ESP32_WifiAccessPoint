@@ -122,7 +122,7 @@ void loop() {
 
 ## Pictures
 
-<img src="https://github.com/ItsRawanMoha/ESP32_WifiAccessPoint/blob/main/1.jpeg" alt="Alt text" width="200" height="500"> <img src="https://github.com/ItsRawanMoha/ESP32_WifiAccessPoint/blob/main/2.jpeg" alt="Alt text" width="200" height="500"> <img src="https://github.com/ItsRawanMoha/ESP32_WifiAccessPoint/blob/main/3.jpeg" alt="Alt text" width="200" height="500">
+<img src="https://github.com/ItsRawanMoha/ESP32_WifiAccessPoint/blob/main/1.jpeg" alt="Alt text" width="250" height="500"> <img src="https://github.com/ItsRawanMoha/ESP32_WifiAccessPoint/blob/main/2.jpeg" alt="Alt text" width="250" height="500"> <img src="https://github.com/ItsRawanMoha/ESP32_WifiAccessPoint/blob/main/3.jpeg" alt="Alt text" width="250" height="500">
 
 ![screen-gif](https://github.com/ItsRawanMoha/ESP32_WifiAccessPoint/blob/main/WiFiAccessPoint.gif)
 
